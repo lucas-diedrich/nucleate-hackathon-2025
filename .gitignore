@@ -215,3 +215,6 @@ __marimo__/
 *.xlsx
 *.txt
 *.pth
+
+data/
+data_2/
